@@ -1,4 +1,4 @@
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps1.jpg)
+![img](show/picture1.png)
 
 撤销恢复
 
@@ -16,7 +16,7 @@
 
  
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps2.jpg) 
+![img](show/picture1.png) 
 
 ![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps3.jpg) 
 
