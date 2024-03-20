@@ -16,19 +16,19 @@
 
  
 
-![img](show/picture1.png) 
+![img](show/picture2.png) 
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps3.jpg) 
+![img](show/picture3.png) 
 
 种植扫描分为口扫、模扫、口扫+面弓扫描，对于一体式（模型+扫描杆+牙龈完全一体;模型+扫描杆一体、牙龈单独分离）、分体式（模型、扫描杆、牙龈 完全分离, 模型（模型上面可能带牙龈)、扫描杆+牙龈）扫描件需要裁剪出扫描杆用于与标准杆配准。
 
  
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps4.jpg) 
+![img](show/picture4.png) 
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps5.jpg) 
+![img](show/picture5.png) 
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps6.jpg) 
+![img](show/picture6.png) 
 
 根据牙龈若干种植体的方向和位置，切割牙龈网格拟合牙弓线，通过咬合和牙齿中线约束牙齿排列，碰撞检测排牙位置。送入牙齿牙龈模型得到咬合对齐的牙齿排列，支持上下单颌、双颌排牙
 
@@ -36,11 +36,11 @@
 
  
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps7.jpg) 
+![img](show/picture7.png) 
 
  
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps8.jpg) 
+![img](show/picture8.png) 
 
  
 
@@ -50,7 +50,7 @@
 
  
 
-![img](file:///C:\Users\24854\AppData\Local\Temp\ksohtml6128\wps9.jpg) 
+![img](show/picture9.png) 
 
 ***\*操作模式\****（***\*创建模式、编辑模式、草绘模式、删除模式\****（非必需）***\*、应用模式（\****非必需））： 
 
