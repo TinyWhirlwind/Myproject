@@ -125,6 +125,8 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 结束快速编辑模式（进入编辑模式） 
 
+
+
 应用
 ![img](show/picture10.png)
 ![img](show/picture9.png)
