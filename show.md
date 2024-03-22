@@ -129,7 +129,7 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 应用
 ![img](show/picture10.png)
-![img](show/picture9.png)
+![img](show/picture17.png)
 
 牙齿图像分割、美化
 
