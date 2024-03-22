@@ -1,20 +1,3 @@
-![img](show/picture10.png)
-![img](show/picture9.png)
-
-牙齿图像分割、美化
-
-![img](show/picture11.png)
-![img](show/picture12.png)
-blender生成深度图
-
-![img](show/picture16.png)
-![img](show/picture13.png)
-
-PCN深度图转点云
-![img](show/picture14.png)
-![img](show/picture15.png)
-
-使用paramview制作MeshSegNet全牙弓、半牙弓数据集
 ![img](show/picture1.png)
 
 撤销恢复
@@ -143,5 +126,21 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 结束快速编辑模式（进入编辑模式） 
 
 应用
+![img](show/picture10.png)
+![img](show/picture9.png)
 
+牙齿图像分割、美化
+
+![img](show/picture11.png)
+![img](show/picture12.png)
+blender生成深度图
+
+![img](show/picture16.png)
+![img](show/picture13.png)
+
+PCN深度图转点云
+![img](show/picture14.png)
+![img](show/picture15.png)
+
+使用paramview制作MeshSegNet全牙弓、半牙弓数据集
  
