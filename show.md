@@ -2,10 +2,11 @@
 ![img](show/picture9.png)
 
 牙齿图像分割、美化
+
 ![img](show/picture11.png)
 ![img](show/picture12.png)
-
 blender生成深度图
+
 ![img](show/picture16.png)
 ![img](show/picture13.png)
 
