@@ -4,21 +4,21 @@
 牙齿图像分割、美化
 ![img](show/picture11.png)
 ![img](show/picture12.png)
+
 blender生成深度图
 ![img](show/picture16.png)
 ![img](show/picture13.png)
+
 PCN深度图转点云
 ![img](show/picture14.png)
 ![img](show/picture15.png)
+
 使用paramview制作MeshSegNet全牙弓、半牙弓数据集
 ![img](show/picture1.png)
 
 撤销恢复
-
 保存恢复
-
 调整面板参数改变基台形态（开启斜角、锁定聚合角度、平均插入方向生成基台、聚合角度、垂直补偿、圆角半径、网格大小）
-
 拖拽器改变基台的斜角、高度功能
 
  
