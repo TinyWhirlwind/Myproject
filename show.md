@@ -1,3 +1,11 @@
+牙齿图像分割、美化
+![img](show/picture1.png)
+PCN深度图转点云
+![img](show/picture1.png)
+MeshSegNet全牙弓、半牙弓数据集制作
+![img](show/picture1.png)
+
+
 ![img](show/picture1.png)
 
 撤销恢复
