@@ -127,5 +127,5 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 应用
 
-![img](show/picture9.png) 
+<video src="show/autofit.mp4"></video>
 自动贴面
