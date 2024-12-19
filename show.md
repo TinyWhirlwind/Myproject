@@ -127,19 +127,26 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 应用
 
-简化
+网格简化 现在只考虑边 不考虑点对
+
 ![img](show/18before.png) 
 ![img](show/18after.png) 
 ![img](show/19_0.png) 
 ![img](show/19_1.png) 
 ![img](show/19_2.png) 
-补洞
+
+最小权重补洞后remesh
+
 ![img](show/20_0.png) 
 ![img](show/20_1.png) 
 ![img](show/20_2.png) 
 ![img](show/20_3.png) 
-remesh
+
+remesh 自动去除狭长面片 退化面片
+
 ![img](show/21_0.png) 
 ![img](show/21_1.png) 
+
 裁剪线
+
 ![img](show/22_0.png) 
