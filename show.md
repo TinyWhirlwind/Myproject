@@ -152,9 +152,9 @@ remesh 自动去除狭长面片 退化面片
 ![img](show/22_0.png) 
 
 磨除
-<video src="show/20241021_140103.mp4"></video>
+<video src="../show/20241021_140103.mp4"></video>
 
 自动贴面
 
-<video src="show/autofit2.mp4"></video>
+<video src="../show/autofit2.mp4"></video>
 
