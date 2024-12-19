@@ -153,13 +153,7 @@ remesh 自动去除狭长面片 退化面片
 
 磨除
 
-<video width="320" height="240" controls>
-  <source src="show/20241021_140103.mp4" type="video/mp4">
-</video>
-
-
-![视频封面](https://example.com/thumbnail.jpg)
-[点击观看视频](https://github.com/TinyWhirlwind/Myproject/edit/main/show/autofit2.mp4)
+![open](https://github.com/TinyWhirlwind/Myproject/edit/main/show/autofit2.mp4)
 
 
 自动贴面
