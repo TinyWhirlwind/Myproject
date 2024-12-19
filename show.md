@@ -127,3 +127,19 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 应用
 
+简化
+![img](show/18before.png) 
+![img](show/18after.png) 
+![img](show/19_0.png) 
+![img](show/19_1.png) 
+![img](show/19_2.png) 
+补洞
+![img](show/20_0.png) 
+![img](show/20_1.png) 
+![img](show/20_2.png) 
+![img](show/20_3.png) 
+remesh
+![img](show/21_0.png) 
+![img](show/21_1.png) 
+裁剪线
+![img](show/22_0.png) 
