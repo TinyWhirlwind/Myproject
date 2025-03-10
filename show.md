@@ -128,31 +128,59 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 应用
 
 ![img](show/attach.png) 
+
 ![img](show/bezier_after.png) 
+
 牵引扣
-![img](show/fitSurface.png) 
+
+
+![img](show/fit_surface.png) 
+
 自动贴面
-![img](show/erase.png) 
+
+
+![img](show/erase_before.png) 
+
+![img](show/erase_after.png) 
+
 ![img](show/center_subdivision.png) 
+
 ![img](show/butterfly_subdivision.png) 
+
 ![img](show/mesh_decimation_before.png) 
+
 ![img](show/mesh_decimation_after0.png) 
+
 ![img](show/mesh_decimation_after1.png) 
+
 磨除
+
+
 ![img](show/slicer_model_before.png) 
+
 ![img](show/slicer_model_after.png) 
+
 ![img](show/surface_reconstruction.png) 
+
 ![img](show/cut_surface.png) 
+
 ![img](show/swept_volume_after.png) 
+
 剪切导板
+
 ![img](show/non_manifold_brefore.png) 
+
 ![img](show/non_manifold_repair.png) 
+
 非流行检测与修复
+
 ![img](show/project_before.png) 
+
 ![img](show/project_after.png) 
+
 ![img](show/curve_split_surface.png) 
 
-
+曲线裁剪曲面
 
 
 
