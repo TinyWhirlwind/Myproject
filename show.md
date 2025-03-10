@@ -127,37 +127,33 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 应用
 
-网格简化 现在只考虑边 不考虑点对
-
-![img](show/18before.png) 
-![img](show/18after.png) 
-![img](show/19_0.png) 
-![img](show/19_1.png) 
-![img](show/19_2.png) 
-
-最小权重补洞后remesh
-
-![img](show/20_0.png) 
-![img](show/20_1.png) 
-![img](show/20_2.png) 
-![img](show/20_3.png) 
-
-remesh 自动去除狭长面片 退化面片
-
-![img](show/21_0.png) 
-![img](show/21_1.png) 
-
-裁剪线
-
-![img](show/22_0.png) 
-
-磨除
-
-![open](https://github.com/TinyWhirlwind/Myproject/edit/main/show/autofit2.mp4)
-
-
+![img](show/attach.png) 
+![img](show/bezier_after.png) 
+牵引扣
+![img](show/fitSurface.png) 
 自动贴面
-<video width="320" height="240" controls>
-  <source src="show/autofit2.mp4" type="video/mp4">
-</video>
+![img](show/erase.png) 
+![img](show/center_subdivision.png) 
+![img](show/butterfly_subdivision.png) 
+![img](show/mesh_decimation_before.png) 
+![img](show/mesh_decimation_after0.png) 
+![img](show/mesh_decimation_after1.png) 
+磨除
+![img](show/slicer_model_before.png) 
+![img](show/slicer_model_after.png) 
+![img](show/surface_reconstruction.png) 
+![img](show/cut_surface.png) 
+![img](show/swept_volume_after.png) 
+剪切导板
+![img](show/non_manifold_brefore.png) 
+![img](show/non_manifold_repair.png) 
+非流行检测与修复
+![img](show/project_before.png) 
+![img](show/project_after.png) 
+![img](show/curve_split_surface.png) 
+
+
+
+
+
 
