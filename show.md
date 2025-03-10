@@ -129,8 +129,6 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 ![img](show/attach.png) 
 
-![img](show/bezier_after.png) 
-
 牵引扣
 
 
@@ -182,6 +180,12 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 曲线裁剪曲面
 
+![img](show/fill_hole_before.png) 
 
+![img](show/fill_hole_min_triangle.png) 
+
+![img](show/fill_hole_refine.png) 
+
+补洞
 
 
