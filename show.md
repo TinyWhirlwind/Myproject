@@ -153,16 +153,11 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 磨除
 
-
 ![img](show/slicer_model_before.png) 
 
 ![img](show/slicer_model_after.png) 
 
 ![img](show/surface_reconstruction.png) 
-
-![img](show/cut_surface.png) 
-
-![img](show/swept_volume_after.png) 
 
 剪切导板
 
@@ -178,6 +173,8 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 ![img](show/curve_split_surface.png) 
 
+![img](show/cut_surface.png) 
+
 曲线裁剪曲面
 
 ![img](show/fill_hole_before.png) 
@@ -185,6 +182,8 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 ![img](show/fill_hole_min_triangle.png) 
 
 ![img](show/fill_hole_refine.png) 
+
+![img](show/cut_surface.png) 
 
 补洞
 
