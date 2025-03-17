@@ -185,8 +185,6 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 ![img](show/fill_hole_refine.png) 
 
-![img](show/cut_surface.png) 
-
 补洞
 
 
