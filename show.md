@@ -165,6 +165,8 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 
 ![img](show/non_manifold_repair.png) 
 
+![img](show/swept_volume.png)
+
 非流行检测与修复
 
 ![img](show/project_before.png) 
