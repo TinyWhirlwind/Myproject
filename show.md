@@ -1,3 +1,11 @@
+剖切
+![img](show/cut.png)
+参数化
+![img](show/before.png)
+![img](show/after.png)
+![img](show/LSCM.png)
+
+
 ![img](show/picture1.png)
 
 撤销恢复
@@ -186,10 +194,8 @@ Mesh 上左键点击或者左键拖动：绘制样条，隐藏小球
 ![img](show/fill_hole_refine.png) 
 
 补洞
-![img](show/before.png)
-![img](show/after.png)
-![img](show/LSCM.png)
-参数化
-![img](show/step_color.png)
+
 step不使用OCAF输出颜色
+![img](show/step_color.png)
+
 
